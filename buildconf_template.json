@@ -1,8 +1,8 @@
 {
 	"repositoryFolder": "BASEDIR/eaglercraftx",
 	"modCoderPack": "/tmp/mcp918.zip",
-	"minecraftJar": "/tmp/1.8.8.jar",
-	"assetsIndex": "/tmp/1.8.json",
+	"minecraftJar": "/tmp/1.12.2.jar",
+	"assetsIndex": "/tmp/1.12.2.json",
 	"outputDirectory": "/tmp/output",
 	"temporaryDirectory": "/tmp/##EAGLER.TEMP##",
 	"ffmpeg": "ffmpeg",
